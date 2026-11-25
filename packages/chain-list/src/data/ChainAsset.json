@@ -20993,5 +20993,19 @@
     "multiChainAsset": null,
     "hasValue": false,
     "icon": "/assets/chain-assets/flow_evm_testnet-native-flow.png"
+  },
+  "flop_testnet-NATIVE-FLOP": {
+    "originChain": "flop_testnet",
+    "slug": "flop_testnet-NATIVE-FLOP",
+    "name": "FLOP",
+    "symbol": "FLOP",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "multiChainAsset": null,
+    "hasValue": false,
+    "icon": "/assets/chain-assets/flop_testnet-native-flop.png"
   }
 }
